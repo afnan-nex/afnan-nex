@@ -2,8 +2,7 @@
 
 💻 **Web Developer** | ⚙️ Automation Enthusiast | 🌐 Web & API Integrator
 
-I love turning ideas into functional tools — from **automation scripts** to **web-based utilities**.  
-I work with **Python**, **JavaScript**, **HTML/CSS**, and integrate APIs to make workflows smoother.
+🚀 Turning ideas into automation, tools, and web magic
 
 ## **🚀 What I Do**
 
