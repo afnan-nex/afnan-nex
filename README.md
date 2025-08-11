@@ -1,16 +1,36 @@
-## Hi there 👋
+# **👋 Hi, I’m Afnan**
 
-<!--
-**afnan-nex/afnan-nex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer** | ⚙️ Automation Enthusiast | 🌐 Web & API Integrator
 
-Here are some ideas to get you started:
+I love turning ideas into functional tools — from **automation scripts** to **web-based utilities**.  
+I work with **Python**, **JavaScript**, **HTML/CSS**, and integrate APIs to make workflows smoother.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **🚀 What I Do**
+
+*   🐍 **Python Projects** — Automation with **PyAutoGUI**, **OpenCV**, and **ADB**
+  
+*   🌐 **Web Tools** — HTML/JS-based converters, generators, and interactive utilities  
+    
+*   🔗 **API Integrations** — WooCommerce, WhatsApp Business API, REST APIs  
+    
+*   🖥 **n8n Automation** — Self-hosted workflows for business & personal projects  
+    
+
+## **📂 Highlighted Projects**
+
+*   **Py-Webcam-Safety** – Personal safety webcam recorder (not for illegal use)  
+    
+*   **PyAutoGUI Command Generator** – Generates commands from screenshots/videos  
+    
+*   **Doc to Markdown Converter** – Convert .doc files to GitHub-ready Markdown      
+
+## **🛠 Tech & Tools**
+
+*   **Languages:** Python, JavaScript, HTML, CSS  
+    
+*   **Frameworks/Libs:** OpenCV, PyAutoGUI, ADB, Vite + React  
+    
+*   **Automation:** n8n, REST API, CLI Tools  
+    
+*   **Other:** Git/GitHub, WordPress, WooCommerce  
+    
