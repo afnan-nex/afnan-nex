@@ -1,11 +1,5 @@
 # **👋 Hi, I’m Afnan**
-
-💻 **Web Developer** | ⚙️ Automation Enthusiast | 🌐 Web & API Integrator
-
-# 💫 About Me:
-I love turning ideas into functional tools — from **automation scripts** to **web-based utilities**.  
-I work with **Python**, **JavaScript**, **HTML/CSS**, and integrate APIs to make workflows smoother.
-
+---
 # 📟 Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
