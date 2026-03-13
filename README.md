@@ -37,7 +37,24 @@
   </a> 
   </p>
 
+### My Repositories
 
+- [tools-installer](https://github.com/afnan-nex/tools-installer) - A Windows batch script with an interactive menu to quickly install developer tools (Node.js, Python, Git, Chocolatey, n8n, Gemini CLI, Qwen CLI) and run automation scripts.
+- [docx-to-readme](https://github.com/afnan-nex/docx-to-readme) - A single-file, client-side tool to convert DOCX (Word) or pasted HTML/text into GitHub-ready README.md with live preview.
+- [n8n-variable-code-maker](https://github.com/afnan-nex/n8n-variable-code-maker) - A web-based tool to create and run code files for n8n automation workflows.
+- [python-scripts-for-pc-and-android-automations](https://github.com/afnan-nex/python-scripts-for-pc-and-android-automations) - Python and HTML tools for automating PC and Android tasks using PyAutoGUI and ADB.
+- [music-organizer-tools](https://github.com/afnan-nex/music-organizer-tools) - A set of Python utilities to organize music by album metadata and archive folders into ZIP files.
+- [yt-watchlater-exporter](https://github.com/afnan-nex/yt-watchlater-exporter) - A Chrome extension to export your YouTube "Watch Later" playlist into a JSON file.
+- [multi_tools_in_c](https://github.com/afnan-nex/multi_tools_in_c) - A program that can do unit conversions, password generation, and basic file info checks.
+- [vpn-gate-connector](https://github.com/afnan-nex/vpn-gate-connector) - A simple Python Script to Connect to VPN.
+- [git-batch-cloner](https://github.com/afnan-nex/git-batch-cloner) - A simple Python script to clone multiple GitHub repositories from user input.
+- [py-webcam-safety](https://github.com/afnan-nex/py-webcam-safety) - A Python tool that captures periodic webcam images for security monitoring.
+- [portfolio](https://github.com/afnan-nex/portfolio) - My personal portfolio website.
+- [ai-soc-tool](https://github.com/afnan-nex/ai-soc-tool) - AI-powered SOC tool.
+- [n8n-tools](https://github.com/afnan-nex/n8n-tools) - Collection of tools and resources for n8n automation workflows.
+- [my-fav-scripts](https://github.com/afnan-nex/my-fav-scripts) - Collection of my favorite and useful scripts.
+- [Elegant](https://github.com/afnan-nex/Elegant) - Elegant solutions and utilities.
+- [afnan-nex](https://github.com/afnan-nex/afnan-nex) - A collection of my experiments, learnings, and creations.
 
 ### Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
