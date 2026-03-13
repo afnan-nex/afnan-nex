@@ -54,7 +54,6 @@
 - [n8n-tools](https://github.com/afnan-nex/n8n-tools) - Collection of tools and resources for n8n automation workflows.
 - [my-fav-scripts](https://github.com/afnan-nex/my-fav-scripts) - Collection of my favorite and useful scripts.
 - [Elegant](https://github.com/afnan-nex/Elegant) - Elegant solutions and utilities.
-- [afnan-nex](https://github.com/afnan-nex/afnan-nex) - A collection of my experiments, learnings, and creations.
 
 ### Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
