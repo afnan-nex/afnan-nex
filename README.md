@@ -45,11 +45,7 @@
 ### Streak
 ![](https://nirzak-streak-stats.vercel.app/?user=afnan-nex&theme=dark&hide_border=false)
 
-
-![CSS3](https://www.facebook.com/afnannex)
-
 ---
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -77,7 +73,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
