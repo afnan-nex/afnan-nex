@@ -2,13 +2,7 @@
 
 ### Socials
 
-<a href="https://afnan-nex.github.io/portfolio/" target="_blank" rel="noreferrer"> 
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitbook-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitbook.svg" /> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitbook.svg" width="32" height="32" alt="Portfolio" /> 
-  </picture> 
-</a>
+<a href="https://afnan-nex.github.io/portfolio/" target="_blank" rel="noreferrer">See Portfolio</a>
 
 <p align="left"> 
   <a href="https://github.com/afnan-nex" target="_blank" rel="noreferrer"> 
