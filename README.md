@@ -56,10 +56,6 @@
 - [my-fav-scripts](https://github.com/afnan-nex/my-fav-scripts) - Collection of my favorite and useful scripts.
 - [Elegant](https://github.com/afnan-nex/Elegant) - Elegant solutions and utilities.
 
-### Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-
-
 ### Streak
 ![](https://nirzak-streak-stats.vercel.app/?user=afnan-nex&theme=dark&hide_border=false)
 
@@ -94,7 +90,7 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ---
-# 📊 GitHub Stats:
+### GitHub Stats & Language:
 <a href="https://github.com/Pranesh-2005/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </a>
