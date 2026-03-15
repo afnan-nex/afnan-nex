@@ -2,7 +2,7 @@
 
 ### Socials
 
-<a href="https://afnan-nex.github.io/portfolio/" target="_blank" rel="noreferrer">See Portfolio</a>
+<a href="https://afnan-nex.github.io/portfolio/" target="_blank" rel="noreferrer">View Portfolio</a>
 
 <p align="left"> 
   <a href="https://github.com/afnan-nex" target="_blank" rel="noreferrer"> 
