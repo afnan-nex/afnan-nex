@@ -95,8 +95,12 @@
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+</a>
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=afnan-nex&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=afnan-nex&theme=radical&no-frame=false&no-bg=true&margin-w=4)
