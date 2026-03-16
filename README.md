@@ -38,6 +38,7 @@
   </a> 
   </p>
 
+
 ### My Repositories
 
 - [tools-installer](https://github.com/afnan-nex/tools-installer) - A Windows batch script with an interactive menu to quickly install developer tools (Node.js, Python, Git, Chocolatey, n8n, Gemini CLI, Qwen CLI) and run automation scripts.
@@ -97,6 +98,7 @@
 <a href="https://github.com/Pranesh-2005/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=afnan-nex&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
+<img src="https://github.com/abhixdd/abhixdd/blob/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=afnan-nex&theme=radical&no-frame=false&no-bg=true&margin-w=4)
