@@ -1,8 +1,7 @@
 # **👋 Hi, I’m Afnan**
 
-### Socials
 [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">](https://afnan-nex.github.io/portfolio/index.html)
-
+### Socials
 <p align="left"> 
   <a href="https://github.com/afnan-nex" target="_blank" rel="noreferrer"> 
     <picture> 
