@@ -56,8 +56,20 @@
 - [my-fav-scripts](https://github.com/afnan-nex/my-fav-scripts) - Collection of my favorite and useful scripts.
 - [Elegant](https://github.com/afnan-nex/Elegant) - Elegant solutions and utilities.
 
-### Streak
-![](https://nirzak-streak-stats.vercel.app/?user=afnan-nex&theme=dark&hide_border=false)
+### Streak & Stats
+
+<p align="center">
+  <table border="0" cellpadding="0" cellspacing="10">
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnan-nex&theme=dark&hide_border=true&style=circle" alt="Streak"/>
+      </td>
+      <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=afnan-nex&custom_title=GitHub%20Stats&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=afnan-nex&color=007ec6&style=round-square)
 
@@ -91,12 +103,19 @@
 
 ---
 ### GitHub Stats & Language:
-<a href="https://github.com/Pranesh-2005/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-</a>
-<a href="https://github.com/Pranesh-2005/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=afnan-nex&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p align="center">
+  <table border="0" cellpadding="0" cellspacing="10">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=afnan-nex&custom_title=%20Time%20Spend&langs_count=4&theme=dark&hide_border=true&layout=compact" alt="Wakatime Stats - Compact Layout" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-nex&custom_title=Languages%20Used&langs_count=4&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
+
 <img src="https://github.com/abhixdd/abhixdd/blob/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 
 ## 🏆 GitHub Trophies
@@ -105,7 +124,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=afnan-nex&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnan-nex&custom_title=AFNAN's+Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=400)
+
+---
