@@ -105,14 +105,14 @@
 ### GitHub Stats & Language:
 <p align="center">
   <table border="0" cellpadding="0" cellspacing="10">
-    <tr>
+    <!-- <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=afnan-nex&custom_title=%20Time%20Spend&langs_count=4&theme=dark&hide_border=true&layout=compact" alt="Wakatime Stats - Compact Layout" />
-      </td>
+      </td> -->
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-nex&custom_title=Languages%20Used&langs_count=4&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-nex&custom_title=Languages%20Used&langs_count=4&layout=donut-vertical&theme=dark&hide_border=true" alt="Top Languages" />
       </td>
-    </tr>
+    <!-- </tr> -->
   </table>
 </p>
 
