@@ -57,17 +57,10 @@
 
 ### Streak & Stats
 
-<p align="center">
-  <table border="0" cellpadding="0" cellspacing="10">
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnan-nex&theme=dark&hide_border=true&style=circle" alt="Streak"/>
-      </td>
-      <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=afnan-nex&custom_title=GitHub%20Stats&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Stats"/>
-      </td>
-    </tr>
-  </table>
+## 📊 Streak & Stats
+
+<p align="left">
+  <img height="180em" src="https://streak-stats.demolab.com?user=afnan-nex&theme=dark&hide_border=true" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=afnan-nex&color=007ec6&style=round-square)
