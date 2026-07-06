@@ -38,9 +38,9 @@
 |----------|-----------------|-----------|
 | [Open QR Code Detector ↗️](https://afnan-nex.github.io/qr-code-detector/qr.html) | [Open Missile Mayhem ↗️](https://afnan-nex.github.io/Missile-Mayhem/game.html) | [Open Github Link Converter ↗️](https://afnan-nex.github.io/my-fav-scripts/Github%20link%20converter.html) |
 
-| Cat's Cradle | Personal Emergency Vault |
-|---------|----------|
-| [Open Cat's Cradle ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open Personal Emergency Vault ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) |
+| Cat's Cradle | Personal Emergency Vault | Cache File Downloader |
+|---------|----------|-------|
+| [Open Cat's Cradle ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open Personal Emergency Vault ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) | [Open Cache File Downloader ↗️](https://afnan-nex.github.io/my-fav-scripts/cache-file-downloader.html) |
 
 # On the go Scripts
 ### Tools Installer
