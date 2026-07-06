@@ -38,9 +38,9 @@
 |----------|-----------------|
 | [Open QR Code Detector ↗️](https://afnan-nex.github.io/qr-code-detector/qr.html) | [Open Missile Mayhem ↗️](https://afnan-nex.github.io/Missile-Mayhem/game.html) |
 
-| Tunnel | Victory |
+| Cat's Cradle | Personal Emergency Vault |
 |---------|----------|
-| ![](screenshots/tunnel.png) | ![](screenshots/victory.png) |
+| [Open Cat's Cradle ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open Personal Emergency Vault ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) |
 
 
 ### My Repositories
