@@ -17,7 +17,6 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /> 
     </picture> 
   </a> 
-  
   <a href="https://www.facebook.com/afnannex" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> 
@@ -25,8 +24,6 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /> 
     </picture> 
   </a>
-  
-
   <a href="https://www.linkedin.com/in/muhammad-afnan-siddiqui-a9953a364/" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
@@ -35,6 +32,15 @@
     </picture> 
   </a> 
   </p>
+
+# My web Apps
+| QR Code Detector | Missile Mayhem |
+|----------|-----------------|
+| [Open QR Code Detector ↗️](https://afnan-nex.github.io/qr-code-detector/qr.html) | [Open Missile Mayhem ↗️](https://afnan-nex.github.io/Missile-Mayhem/game.html) |
+
+| Tunnel | Victory |
+|---------|----------|
+| ![](screenshots/tunnel.png) | ![](screenshots/victory.png) |
 
 
 ### My Repositories
