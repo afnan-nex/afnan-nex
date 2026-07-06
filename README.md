@@ -31,17 +31,29 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /> 
     </picture> 
   </a> 
-  </p>
+</p>
 
 # My web Apps
-| QR Code Detector | Missile Mayhem |
-|----------|-----------------|
-| [Open QR Code Detector ↗️](https://afnan-nex.github.io/qr-code-detector/qr.html) | [Open Missile Mayhem ↗️](https://afnan-nex.github.io/Missile-Mayhem/game.html) |
+| QR Code Detector | Missile Mayhem | Github Link Converter |
+|----------|-----------------|-----------|
+| [Open QR Code Detector ↗️](https://afnan-nex.github.io/qr-code-detector/qr.html) | [Open Missile Mayhem ↗️](https://afnan-nex.github.io/Missile-Mayhem/game.html) | [Open Github Link Converter ↗️](https://afnan-nex.github.io/my-fav-scripts/Github%20link%20converter.html) |
 
 | Cat's Cradle | Personal Emergency Vault |
 |---------|----------|
 | [Open Cat's Cradle ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open Personal Emergency Vault ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) |
 
+# On the go Scripts
+### Tools Installer
+```
+curl -L -o "%TEMP%\tools-installer.ps1" https://raw.githubusercontent.com/afnan-nex/tools-installer/main/tools-installer.ps1 && powershell -NoProfile -ExecutionPolicy Bypass -File "%TEMP%\tools-installer.ps1"
+
+```
+
+### Music Organizer Tools
+```cmd
+curl -o music_organizer.py https://raw.githubusercontent.com/afnan-nex/music-organizer-tools/main/music_organizer.py && python -m pip install mutagen && python music_organizer.py
+
+```
 
 ### My Repositories
 
