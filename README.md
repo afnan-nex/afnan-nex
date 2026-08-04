@@ -33,7 +33,7 @@
   </a> 
 </p>
 
-# My web Apps
+## My web Apps
 | QR Code Detector | Missile Mayhem | Github Link Converter |
 |----------|-----------------|-----------|
 | [Open QR Code Detector ↗️](https://afnan-nex.github.io/qr-code-detector/qr.html) | [Open Missile Mayhem ↗️](https://afnan-nex.github.io/Missile-Mayhem/game.html) | [Open Github Link Converter ↗️](https://afnan-nex.github.io/my-fav-scripts/Github%20link%20converter.html) |
@@ -42,7 +42,7 @@
 |---------|----------|-------|
 | [Open Cat's Cradle ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open Personal Emergency Vault ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) | [Open Cache File Downloader ↗️](https://afnan-nex.github.io/my-fav-scripts/cache-file-downloader.html) |
 
-# On the go Scripts
+## On the go Scripts
 ### Tools Installer
 ```
 curl -L -o "%TEMP%\tools-installer.ps1" https://raw.githubusercontent.com/afnan-nex/tools-installer/main/tools-installer.ps1 && powershell -NoProfile -ExecutionPolicy Bypass -File "%TEMP%\tools-installer.ps1"
@@ -61,7 +61,7 @@ curl -L -o "%TEMP%\git_batch_cloner.py" https://raw.githubusercontent.com/afnan-
 
 ```
 
-### My Repositories
+## My Repositories
 
 - [tools-installer](https://github.com/afnan-nex/tools-installer) - A Windows batch script with an interactive menu to quickly install developer tools (Node.js, Python, Git, Chocolatey, n8n, Gemini CLI, Qwen CLI) and run automation scripts.
 - [docx-to-readme](https://github.com/afnan-nex/docx-to-readme) - A single-file, client-side tool to convert DOCX (Word) or pasted HTML/text into GitHub-ready README.md with live preview.
