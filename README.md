@@ -55,6 +55,12 @@ curl -o music_organizer.py https://raw.githubusercontent.com/afnan-nex/music-org
 
 ```
 
+### Git Batch Cloner
+```cmd
+curl -L -o "%TEMP%\git_batch_cloner.py" https://raw.githubusercontent.com/afnan-nex/git-batch-cloner/main/git_batch_cloner.py && python "%TEMP%\git_batch_cloner.py"
+
+```
+
 ### My Repositories
 
 - [tools-installer](https://github.com/afnan-nex/tools-installer) - A Windows batch script with an interactive menu to quickly install developer tools (Node.js, Python, Git, Chocolatey, n8n, Gemini CLI, Qwen CLI) and run automation scripts.
