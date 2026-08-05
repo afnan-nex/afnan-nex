@@ -79,17 +79,17 @@ curl -L -o "%TEMP%\git_batch_cloner.py" https://raw.githubusercontent.com/afnan-
 - [my-fav-scripts](https://github.com/afnan-nex/my-fav-scripts) - Collection of my favorite and useful scripts.
 - [Elegant](https://github.com/afnan-nex/Elegant) - Elegant solutions and utilities.
 
-### Streak & Stats
+## Streak & Stats
 
-## 📊 Streak & Stats
-
-<p align="left">
-  <img height="180em" src="https://streak-stats.demolab.com?user=afnan-nex&theme=dark&hide_border=true" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=afnan-nex&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=afnan-nex&color=007ec6&style=round-square)
 
 ---
+
+## Tech Stack
 
 ### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -247,9 +247,6 @@ curl -L -o "%TEMP%\git_batch_cloner.py" https://raw.githubusercontent.com/afnan-
 ### GitHub Stats & Language:
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=afnan-nex&layout=compact&theme=dark" />
 
-![](https://github-readme-stats.shion.dev/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=afnan-nex&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <img src="https://github.com/abhixdd/abhixdd/blob/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 
