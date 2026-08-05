@@ -247,6 +247,10 @@ curl -L -o "%TEMP%\git_batch_cloner.py" https://raw.githubusercontent.com/afnan-
 ### GitHub Stats & Language:
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=afnan-nex&layout=compact&theme=dark" />
 
+![](https://github-readme-stats.shion.dev/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=afnan-nex&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <img src="https://github.com/abhixdd/abhixdd/blob/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 
 ## 🏆 GitHub Trophies
