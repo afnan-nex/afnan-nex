@@ -61,6 +61,12 @@ curl -L -o "%TEMP%\git_batch_cloner.py" https://raw.githubusercontent.com/afnan-
 
 ```
 
+### VPN
+```cmd
+where openvpn >nul 2>&1 || choco upgrade openvpn -y --install-if-not-installed && curl -L -o vpn-connector.py https://raw.githubusercontent.com/afnan-nex/vpn-connector/main/vpn-connector.py && python -m pip install requests pystray pillow && python vpn-connector.py
+
+```
+
 ## My Repositories
 
 | #  | Repository                                    | URL                                                                         |
@@ -75,7 +81,7 @@ curl -L -o "%TEMP%\git_batch_cloner.py" https://raw.githubusercontent.com/afnan-
 | 8  | n8n-variable-code-maker                       | https\://github.com/afnan-nex/n8n-variable-code-maker                       |
 | 9  | docx-to-readme                                | https\://github.com/afnan-nex/docx-to-readme                                |
 | 10 | gui-automation-pro                            | https\://github.com/afnan-nex/gui-automation-pro                            |
-| 11 | vpn-gate-connector                            | https\://github.com/afnan-nex/vpn-gate-connector                            |
+| 11 | vpn-connector                                 | https\://github.com/afnan-nex/vpn-connector                                 |
 | 12 | Missile-Mayhem                                | https\://github.com/afnan-nex/Missile-Mayhem                                |
 | 13 | cats-cradle                                   | https\://github.com/afnan-nex/cats-cradle                                   |
 | 14 | music-organizer-tools                         | https\://github.com/afnan-nex/music-organizer-tools                         |
