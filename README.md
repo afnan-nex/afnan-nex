@@ -74,35 +74,35 @@ curl -L -o monkeytype_tui.py https://raw.githubusercontent.com/afnan-nex/monkeyt
 
 ## My Repositories
 
-| #  | Repository                                    | URL                                                                         |
-|----|-----------------------------------------------|-----------------------------------------------------------------------------|
-| 1  | afnan-nex                                     | https\://github.com/afnan-nex/afnan-nex                                     |
-| 2  | portfolio                                     | https\://github.com/afnan-nex/portfolio                                     |
-| 3  | tools-installer                               | https\://github.com/afnan-nex/tools-installer                               |
-| 4  | git-batch-cloner                              | https\://github.com/afnan-nex/git-batch-cloner                              |
-| 5  | my-fav-scripts                                | https\://github.com/afnan-nex/my-fav-scripts                                |
-| 6  | YTDLP-Frontend                                | https\://github.com/afnan-nex/YTDLP-Frontend                                |
-| 7  | n8n-tools                                     | https\://github.com/afnan-nex/n8n-tools                                     |
-| 8  | n8n-variable-code-maker                       | https\://github.com/afnan-nex/n8n-variable-code-maker                       |
-| 9  | docx-to-readme                                | https\://github.com/afnan-nex/docx-to-readme                                |
-| 10 | gui-automation-pro                            | https\://github.com/afnan-nex/gui-automation-pro                            |
-| 11 | vpn-connector                                 | https\://github.com/afnan-nex/vpn-connector                                 |
-| 12 | Missile-Mayhem                                | https\://github.com/afnan-nex/Missile-Mayhem                                |
-| 13 | cats-cradle                                   | https\://github.com/afnan-nex/cats-cradle                                   |
-| 14 | music-organizer-tools                         | https\://github.com/afnan-nex/music-organizer-tools                         |
-| 15 | qr-code-detector                              | https\://github.com/afnan-nex/qr-code-detector                              |
-| 16 | personal-emergency-vault                      | https\://github.com/afnan-nex/personal-emergency-vault                      |
-| 17 | py-webcam-safety                              | https\://github.com/afnan-nex/py-webcam-safety                              |
-| 18 | python-scripts-for-pc-and-android-automations | https\://github.com/afnan-nex/python-scripts-for-pc-and-android-automations |
-| 19 | multi\_tools\_in\_c                           | https\://github.com/afnan-nex/multi\_tools\_in\_c                           |
-| 20 | md-to-pdf                                     | https\://github.com/afnan-nex/md-to-pdf                                     |
-| 21 | PeerX                                         | https\://github.com/afnan-nex/PeerX                                         |
-| 22 | inventory\_management                         | https\://github.com/afnan-nex/inventory\_management                         |
-| 23 | StudentManagement-withQT                      | https\://github.com/afnan-nex/StudentManagement-withQT                      |
-| 24 | StudentManagement-withPY                      | https\://github.com/afnan-nex/StudentManagement-withPY                      |
-| 25 | ai-soc-tool                                   | https\://github.com/afnan-nex/ai-soc-tool                                   |
-| 26 | Elegant                                       | https\://github.com/afnan-nex/Elegant                                       |
-| 27 | yt-watchlater-exporter                        | https\://github.com/afnan-nex/yt-watchlater-exporter                        |
+| #  | Repository                             | URL                                                               |
+|----|----------------------------------------|-------------------------------------------------------------------|
+| 1  | afnan-nex                              | https\://github.com/afnan-nex/afnan-nex                           |
+| 2  | portfolio                              | https\://github.com/afnan-nex/portfolio                           |
+| 3  | tools-installer                        | https\://github.com/afnan-nex/tools-installer                     |
+| 4  | git-batch-cloner                       | https\://github.com/afnan-nex/git-batch-cloner                    |
+| 5  | my-fav-scripts                         | https\://github.com/afnan-nex/my-fav-scripts                      |
+| 6  | YTDLP-Frontend                         | https\://github.com/afnan-nex/YTDLP-Frontend                      |
+| 7  | n8n-tools                              | https\://github.com/afnan-nex/n8n-tools                           |
+| 8  | n8n-variable-code-maker                | https\://github.com/afnan-nex/n8n-variable-code-maker             |
+| 9  | docx-to-readme                         | https\://github.com/afnan-nex/docx-to-readme                      |
+| 10 | gui-automation-pro                     | https\://github.com/afnan-nex/gui-automation-pro                  |
+| 11 | vpn-connector                          | https\://github.com/afnan-nex/vpn-connector                       |
+| 12 | Missile-Mayhem                         | https\://github.com/afnan-nex/Missile-Mayhem                      |
+| 13 | cats-cradle                            | https\://github.com/afnan-nex/cats-cradle                         |
+| 14 | music-organizer-tools                  | https\://github.com/afnan-nex/music-organizer-tools               |
+| 15 | qr-code-detector                       | https\://github.com/afnan-nex/qr-code-detector                    |
+| 16 | personal-emergency-vault               | https\://github.com/afnan-nex/personal-emergency-vault            |
+| 17 | py-webcam-safety                       | https\://github.com/afnan-nex/py-webcam-safety                    |
+| 18 | py-script-for-pc-android-automation    | https\://github.com/afnan-nex/py-script-for-pc-android-automation |
+| 19 | multi\_tools\_in\_c                    | https\://github.com/afnan-nex/multi\_tools\_in\_c                 |
+| 20 | md-to-pdf                              | https\://github.com/afnan-nex/md-to-pdf                           |
+| 21 | PeerX                                  | https\://github.com/afnan-nex/PeerX                               |
+| 22 | inventory\_management                  | https\://github.com/afnan-nex/inventory\_management               |
+| 23 | StudentManagement-withQT               | https\://github.com/afnan-nex/StudentManagement-withQT            |
+| 24 | StudentManagement-withPY               | https\://github.com/afnan-nex/StudentManagement-withPY            |
+| 25 | ai-soc-tool                            | https\://github.com/afnan-nex/ai-soc-tool                         |
+| 26 | Elegant                                | https\://github.com/afnan-nex/Elegant                             |
+| 27 | yt-watchlater-exporter                 | https\://github.com/afnan-nex/yt-watchlater-exporter              |
 
 ## Streak & Stats
 
