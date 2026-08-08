@@ -66,6 +66,11 @@ curl -L -o "%TEMP%\git_batch_cloner.py" https://raw.githubusercontent.com/afnan-
 where openvpn >nul 2>&1 || choco upgrade openvpn -y --install-if-not-installed && curl -L -o vpn-connector.py https://raw.githubusercontent.com/afnan-nex/vpn-connector/main/vpn-connector.py && python -m pip install requests pystray pillow && python vpn-connector.py
 
 ```
+### Monkey Type TUI
+```cmd
+curl -L -o monkeytype_tui.py https://raw.githubusercontent.com/afnan-nex/monkeytype-tui/main/monkeytype_tui.py && python -m pip install --upgrade textual && python monkeytype_tui.py
+
+```
 
 ## My Repositories
 
