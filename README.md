@@ -103,10 +103,10 @@ curl -L -o monkeytype_tui.py https://raw.githubusercontent.com/afnan-nex/monkeyt
 | 25 | ai-soc-tool                | https\://github.com/afnan-nex/ai-soc-tool                  |
 | 26 | Elegant                    | https\://github.com/afnan-nex/Elegant                      |
 | 27 | yt-watchlater-exporter     | https\://github.com/afnan-nex/yt-watchlater-exporter       |
-| 27 | cr-app                     | https\://github.com/afnan-nex/cr-app                       |
-|Under Development                                                                             |
-| 27 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
-| 27 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
+| 28 | cr-app                     | https\://github.com/afnan-nex/cr-app                       |
+|    | Under Development          |                                                            |
+| 29 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
+| 30 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
 
 ## Streak & Stats
 
