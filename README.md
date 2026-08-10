@@ -36,11 +36,11 @@
 ## My web Apps
 | QR Code Detector | Missile Mayhem | Github Link Converter | Folio Invoice Maker|
 |------------------|----------------|-----------------------|--------------------|
-| [Open QR Code Detector ↗️](https://afnan-nex.github.io/qr-code-detector/qr.html) | [Open Missile Mayhem ↗️](https://afnan-nex.github.io/Missile-Mayhem/game.html) | [Open Github Link Converter ↗️](https://afnan-nex.github.io/my-fav-scripts/Github%20link%20converter.html) | [Open Folio Invoice Maker ↗️](https://afnan-nex.github.io/my-fav-scripts/folio-invoice-maker.html) |
+| [Open ↗️](https://afnan-nex.github.io/qr-code-detector/qr.html) | [Open ↗️](https://afnan-nex.github.io/Missile-Mayhem/game.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/Github%20link%20converter.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/folio-invoice-maker.html) |
 
 | Cat's Cradle | Personal Emergency Vault | Cache File Downloader | Big Text|
 |--------------|--------------------------|-----------------------|---------|
-| [Open Cat's Cradle ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open Personal Emergency Vault ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) | [Open Cache File Downloader ↗️](https://afnan-nex.github.io/my-fav-scripts/cache-file-downloader.html) | [Open Big Text ↗️](https://afnan-nex.github.io/my-fav-scripts/bigtext.html) |
+| [Open ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/cache-file-downloader.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/bigtext.html) |
 
 ## On the go Scripts
 ### Tools Installer
