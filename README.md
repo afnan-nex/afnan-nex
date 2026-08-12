@@ -72,6 +72,12 @@ curl -L -o monkeytype_tui.py https://raw.githubusercontent.com/afnan-nex/monkeyt
 
 ```
 
+### Downly
+```cmd
+aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L -o Downly.py https://raw.githubusercontent.com/afnan-nex/Downly/main/Downly.py && python -m pip install customtkinter aria2p pillow && python Downly.py
+
+```
+
 ## My Repositories
 
 | #  | Repository                 | URL                                                        |
@@ -104,9 +110,10 @@ curl -L -o monkeytype_tui.py https://raw.githubusercontent.com/afnan-nex/monkeyt
 | 26 | Elegant                    | https\://github.com/afnan-nex/Elegant                      |
 | 27 | yt-watchlater-exporter     | https\://github.com/afnan-nex/yt-watchlater-exporter       |
 | 28 | cr-app                     | https\://github.com/afnan-nex/cr-app                       |
+| 29 | Downly                     | https\://github.com/afnan-nex/Downly                       |
 |    | Under Development          |                                                            |
-| 29 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
-| 30 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
+| 30 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
+| 31 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
 
 ## Streak & Stats
 
