@@ -12,8 +12,37 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    concurrency:
+      group: metrics-update
+      cancel-in-progress: true
     steps:
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
       - uses: lowlighter/metrics@latest
         with:
-          # This connects to the secret you just made
+          # This connects to the secret you already made
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: afnan-nex
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Karachi
+          plugin_gists: yes
+          plugin_habits: no
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: no
+          plugin_habits_from: 200
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_traffic: yes
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
+          plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
+          plugin_wakatime_days: 365
+          # Connects to your WakaTime API key
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
