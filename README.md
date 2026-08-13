@@ -33,6 +33,8 @@
   </a> 
 </p>
 
+![My GitHub Metrics](github-metrics.svg)
+
 ## My web Apps
 | QR Code Detector | Missile Mayhem | Github Link Converter | Folio Invoice Maker|
 |------------------|----------------|-----------------------|--------------------|
