@@ -23,7 +23,6 @@ jobs:
           key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
       - uses: lowlighter/metrics@latest
         with:
-          # This connects to the secret you already made
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -40,9 +39,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_traffic: yes
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
-          plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
-          plugin_wakatime_days: 365
-          # Connects to your WakaTime API key
-          # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
