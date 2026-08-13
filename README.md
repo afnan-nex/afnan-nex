@@ -5,72 +5,72 @@
 <p align="left">
   <a href="https://github.com/afnan-nex" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/github.svg" />
-      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/github.svg" width="32" height="32" alt="GitHub" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/github-dark.svg" />
+      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/github-dark.svg" width="32" height="32" alt="GitHub" />
     </picture>
   </a>
   <a href="https://www.instagram.com/afnan_nex" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/instagram-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/instagram.svg" width="32" height="32" alt="Instagram" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/instagram-dark.svg" />
+      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/instagram-dark.svg" width="32" height="32" alt="Instagram" />
     </picture>
   </a>
   <a href="https://www.facebook.com/afnannex" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/facebook-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/facebook.svg" />
-      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/facebook.svg" width="32" height="32" alt="Facebook" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/facebook-dark.svg" />
+      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/facebook-dark.svg" width="32" height="32" alt="Facebook" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-afnan-siddiqui-a9953a364/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/linkedin-dark.svg" />
+      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/linkedin-dark.svg" width="32" height="32" alt="LinkedIn" />
     </picture>
   </a>
   <a href="YOUR_DISCORD_LINK" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord.svg" />
-      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord.svg" width="32" height="32" alt="Discord" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord-dark.svg" />
+      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord-dark.svg" width="32" height="32" alt="Discord" />
     </picture>
   </a>
   <a href="YOUR_PINTEREST_LINK" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/pinterest-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/pinterest.svg" />
-      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/pinterest.svg" width="32" height="32" alt="Pinterest" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/pinterest-dark.svg" />
+      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/pinterest-dark.svg" width="32" height="32" alt="Pinterest" />
     </picture>
   </a>
   <a href="YOUR_REDDIT_LINK" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/reddit-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/reddit.svg" />
-      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/reddit.svg" width="32" height="32" alt="Reddit" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/reddit-dark.svg" />
+      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/reddit-dark.svg" width="32" height="32" alt="Reddit" />
     </picture>
   </a>
   <a href="YOUR_SNAPCHAT_LINK" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/snapchat-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/snapchat.svg" />
-      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/snapchat.svg" width="32" height="32" alt="Snapchat" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/snapchat-dark.svg" />
+      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/snapchat-dark.svg" width="32" height="32" alt="Snapchat" />
     </picture>
   </a>
   <a href="YOUR_TIKTOK_LINK" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/tiktok-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/tiktok.svg" />
-      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/tiktok.svg" width="32" height="32" alt="TikTok" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/tiktok-dark.svg" />
+      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/tiktok-dark.svg" width="32" height="32" alt="TikTok" />
     </picture>
   </a>
   <a href="YOUR_X_LINK" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/x-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/x.svg" />
-      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/x.svg" width="32" height="32" alt="X" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/x-dark.svg" />
+      <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/x-dark.svg" width="32" height="32" alt="X" />
     </picture>
   </a>
 </p>
