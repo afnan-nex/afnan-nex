@@ -3,35 +3,35 @@
 [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg">](https://afnan-nex.github.io/portfolio/index.html)
 ### Socials
 <p align="left">
-  <a href="https://github.com/afnan-nex" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
   <a href="https://www.instagram.com/afnan_nex" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/afnannex" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/facebook.svg" width="32" height="32" alt="Facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-afnan-siddiqui-a9953a364/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/afnan-nex/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="YOUR_DISCORD_LINK" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord.svg" width="32" height="32" alt="Discord" />
+  <a href="https://github.com/afnan-nex" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/github.svg" width="32" height="32" alt="GitHub" />
   </a>
-  <a href="YOUR_PINTEREST_LINK" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/pinterest.svg" width="32" height="32" alt="Pinterest" />
-  </a>
-  <a href="YOUR_REDDIT_LINK" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/reddit.svg" width="32" height="32" alt="Reddit" />
-  </a>
-  <a href="YOUR_SNAPCHAT_LINK" target="_blank" rel="noreferrer">
+  <a href="https://www.snapchat.com/add/afnan-nex" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/snapchat.svg" width="32" height="32" alt="Snapchat" />
   </a>
-  <a href="YOUR_TIKTOK_LINK" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/tiktok.svg" width="32" height="32" alt="TikTok" />
-  </a>
-  <a href="YOUR_X_LINK" target="_blank" rel="noreferrer">
+  <a href="https://x.com/afnan_nex" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/x.svg" width="32" height="32" alt="X" />
+  </a>
+  <a href="https://discord.com/users/1208370037350600714" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord.svg" width="32" height="32" alt="Discord" />
+  </a>
+  <a href="https://www.reddit.com/user/afnan-nex/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/reddit.svg" width="32" height="32" alt="Reddit" />
+  </a>
+  <a href="https://www.pinterest.com/afnan_nex/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/pinterest.svg" width="32" height="32" alt="Pinterest" />
+  </a>
+  <a href="https://www.tiktok.com/@afnan_nex" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/tiktok.svg" width="32" height="32" alt="TikTok" />
   </a>
 </p>
 
