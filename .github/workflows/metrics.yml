@@ -1,0 +1,19 @@
+name: Metrics
+on:
+  # Schedule updates (runs every day at midnight)
+  schedule: [{cron: "0 0 * * *"}]
+  # Allows you to run the action manually from the Actions tab
+  workflow_dispatch:
+  # Runs when you push changes to the main branch
+  push: {branches: ["main", "master"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # This connects to the secret you just made
+          token: ${{ secrets.METRICS_TOKEN }}
