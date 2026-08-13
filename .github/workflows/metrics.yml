@@ -45,4 +45,4 @@ jobs:
           plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
           plugin_wakatime_days: 365
           # Connects to your WakaTime API key
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
