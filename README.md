@@ -1,4 +1,10 @@
 # **👋 Hi, I’m Afnan**
+<p align="left">
+Welcome, the
+<a href="https://github.com/afnan-nex" target="_blank"><img src="https://count.getloli.com/get/@afnan-nex?theme=rule34" alt="Visitor Counter"></a>
+th visitor!
+</p>
+
 
 [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/portfolio.svg">](https://afnan-nex.github.io/portfolio/index.html) [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/cv-button.svg">](https://github.com/afnan-nex/portfolio/raw/main/assets/pdfs/afnan_cv.pdf)
 ## Socials
