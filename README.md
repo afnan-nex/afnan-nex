@@ -38,6 +38,9 @@ th visitor!
   <a href="https://www.tiktok.com/@afnan_nex" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/tiktok.svg" width="32" height="32" alt="TikTok" />
   </a>
+  <a href="https://dev.to/afnan-nex" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/dev.svg" width="32" height="32" alt="Dev.to" />
+  </a>
 </p>
 
 ## Metrices
