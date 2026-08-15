@@ -41,6 +41,9 @@ th visitor!
   <a href="https://dev.to/afnan-nex" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/dev.svg" width="32" height="32" alt="Dev.to" />
   </a>
+  <a href="https://leetcode.com/u/afnan-nex/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/leetcode.svg" width="32" height="32" alt="Leet Code" />
+  </a>
 </p>
 
 ## Metrices
