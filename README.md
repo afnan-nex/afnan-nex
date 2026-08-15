@@ -93,6 +93,9 @@ curl -L -o monkeytype_tui.py https://raw.githubusercontent.com/afnan-nex/monkeyt
 aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L -o Downly.py https://raw.githubusercontent.com/afnan-nex/Downly/main/Downly.py && python -m pip install customtkinter aria2p pillow && python Downly.py
 
 ```
+## Featured Repos 
+
+[![tools-installer](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=afnan-nex&repo=tools-installer&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/afnan-nex/tools-installer) [![Time-nest](https://github-stats-extended-frontend-jade.vercel.app/api/pin/?username=afnan-nex&repo=Time-nest&theme=omni&show_owner=true&border_color=B947B1&border_radius=20&description_lines_count=3)](https://github.com/afnan-nex/Time-nest)
 
 ## My Repositories
 
