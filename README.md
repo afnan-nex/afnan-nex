@@ -120,7 +120,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 20 | multi-tools-in-c           | https\://github.com/afnan-nex/multi-tools-in-c             |
 | 21 | md-to-pdf                  | https\://github.com/afnan-nex/md-to-pdf                    |
 | 22 | PeerX                      | https\://github.com/afnan-nex/PeerX                        |
-| 23 | inventory-management      | https\://github.com/afnan-nex/inventory-management        |
+| 23 | inventory-management       | https\://github.com/afnan-nex/inventory-management         |
 | 24 | StudentManagement-withQT   | https\://github.com/afnan-nex/StudentManagement-withQT     |
 | 25 | StudentManagement-withPY   | https\://github.com/afnan-nex/StudentManagement-withPY     |
 | 26 | ai-soc-tool                | https\://github.com/afnan-nex/ai-soc-tool                  |
