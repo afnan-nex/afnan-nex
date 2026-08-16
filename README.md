@@ -117,10 +117,10 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 17 | py-webcam-safety           | https\://github.com/afnan-nex/py-webcam-safety             |
 | 18 | monkeytype-tui             | https\://github.com/afnan-nex/monkeytype-tui               |
 | 19 | gui-pc-android-automation  | https\://github.com/afnan-nex/gui-pc-android-automation    |
-| 20 | multi\_tools\_in\_c        | https\://github.com/afnan-nex/multi\_tools\_in\_c          |
+| 20 | multi-tools-in-c           | https\://github.com/afnan-nex/multi-tools-in-c             |
 | 21 | md-to-pdf                  | https\://github.com/afnan-nex/md-to-pdf                    |
 | 22 | PeerX                      | https\://github.com/afnan-nex/PeerX                        |
-| 23 | inventory\_management      | https\://github.com/afnan-nex/inventory\_management        |
+| 23 | inventory-management      | https\://github.com/afnan-nex/inventory-management        |
 | 24 | StudentManagement-withQT   | https\://github.com/afnan-nex/StudentManagement-withQT     |
 | 25 | StudentManagement-withPY   | https\://github.com/afnan-nex/StudentManagement-withPY     |
 | 26 | ai-soc-tool                | https\://github.com/afnan-nex/ai-soc-tool                  |
