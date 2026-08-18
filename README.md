@@ -5,7 +5,8 @@ Welcome, the
 th visitor!
 </p>
 
-[<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/portfolio.svg">](https://afnan-nex.github.io/portfolio/index.html) [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/cv-button.svg">](https://github.com/afnan-nex/portfolio/raw/main/assets/pdfs/afnan_cv.pdf)
+[<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/portfolio.svg">](https://afnan-nex.github.io/portfolio/index.html) [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/cv-button.svg">](https://github.com/afnan-nex/portfolio/raw/main/assets/pdfs/afnan_cv.pdf)<br>
+[<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord-community.svg">](https://discord.gg/FD3HnPqkA7)
 ## Socials
 <p align="left">
   <a href="https://www.instagram.com/afnan_nex" target="_blank" rel="noreferrer">
