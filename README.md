@@ -48,7 +48,7 @@ th visitor!
 </p>
 
 <p align="left">
-  <img src="https://github.com/afnan-nex/afnan-nex/blob/main/icons/montage.gif" alt="montage" width="100%" />
+  <img src="https://github.com/afnan-nex/afnan-nex/blob/main/icons/montage.gif" alt="montage" width="20%" />
 </p>
 
 ## Metrices
