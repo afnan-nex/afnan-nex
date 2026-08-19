@@ -132,9 +132,10 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 31 | Time-nest                  | https\://github.com/afnan-nex/Time-nest                    |
 | 32 | my-prompts                 | https\://github.com/afnan-nex/my-prompts                   |
 | 33 | Block-me                   | https\://github.com/afnan-nex/Block-me                     |
+| 34 | calculator-pro             | https\://github.com/afnan-nex/calculator-pro               |
 |    | Under Development          |                                                            |
-| 34 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
-| 35 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
+| 35 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
+| 36 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
 
 ## Streak & Stats
 
