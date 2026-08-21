@@ -131,7 +131,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 26 | ai-soc-tool                | https\://github.com/afnan-nex/ai-soc-tool                  |
 | 27 | Elegant                    | https\://github.com/afnan-nex/Elegant                      |
 | 28 | yt-watchlater-exporter     | https\://github.com/afnan-nex/yt-watchlater-exporter       |
-| 29 | cr-app                     | https\://github.com/afnan-nex/cr-app                       |
+| 29 | Attendance-manager         | https\://github.com/afnan-nex/Attendance-manager           |
 | 30 | Downly                     | https\://github.com/afnan-nex/Downly                       |
 | 31 | Time-nest                  | https\://github.com/afnan-nex/Time-nest                    |
 | 32 | my-prompts                 | https\://github.com/afnan-nex/my-prompts                   |
