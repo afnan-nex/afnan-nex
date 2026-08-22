@@ -138,9 +138,10 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 33 | Block-me                   | https\://github.com/afnan-nex/Block-me                     |
 | 34 | Stop-me                    | https\://github.com/afnan-nex/Stop-me                      |
 | 35 | calculator-pro             | https\://github.com/afnan-nex/calculator-pro               |
+| 36 | Links-vault                | https\://github.com/afnan-nex/Links-vault                  |
 |    | Under Development          |                                                            |
-| 36 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
-| 37 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
+| 37 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
+| 38 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
 
 ## Streak & Stats
 
