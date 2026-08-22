@@ -310,9 +310,6 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 
 ---
 ### GitHub Stats & Language:
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=afnan-nex&layout=compact&theme=dark" />
-
-
 <img src="https://github.com/abhixdd/abhixdd/blob/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 
 ## GitHub Trophies
