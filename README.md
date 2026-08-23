@@ -64,7 +64,7 @@ th visitor!
 | [Open ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/cache-file-downloader.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/bigtext.html) |
 
 ## On the go Scripts
-### Tools Installer
+### Tooler
 ```cmd
 curl -L -o "%TEMP%\tooler.ps1" https://raw.githubusercontent.com/afnan-nex/tooler/main/tooler.ps1 && powershell -NoProfile -ExecutionPolicy Bypass -File "%TEMP%\tooler.ps1"
 
