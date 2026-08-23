@@ -139,10 +139,11 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 34 | Stop-me                    | https\://github.com/afnan-nex/Stop-me                      |
 | 35 | calculator-pro             | https\://github.com/afnan-nex/calculator-pro               |
 | 36 | Links-vault                | https\://github.com/afnan-nex/Links-vault                  |
-| 37 | website-showcase           | https\://github.com/afnan-nex/website-showcase             |
+| 37 | web-showcase               | https\://github.com/afnan-nex/web-showcase                 |
+| 38 | app-showcase               | https\://github.com/afnan-nex/app-showcase                 |
 |    | Under Development          |                                                            |
-| 38 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
-| 39 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
+| 39 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
+| 40 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
 
 ## Streak & Stats
 
