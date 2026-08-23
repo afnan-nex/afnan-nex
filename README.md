@@ -66,7 +66,7 @@ th visitor!
 ## On the go Scripts
 ### Tools Installer
 ```cmd
-curl -L -o "%TEMP%\tools-installer.ps1" https://raw.githubusercontent.com/afnan-nex/tools-installer/main/tools-installer.ps1 && powershell -NoProfile -ExecutionPolicy Bypass -File "%TEMP%\tools-installer.ps1"
+curl -L -o "%TEMP%\tooler.ps1" https://raw.githubusercontent.com/afnan-nex/tooler/main/tooler.ps1 && powershell -NoProfile -ExecutionPolicy Bypass -File "%TEMP%\tooler.ps1"
 
 ```
 
@@ -105,7 +105,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 |----|----------------------------|------------------------------------------------------------|
 | 1  | afnan-nex                  | https\://github.com/afnan-nex/afnan-nex                    |
 | 2  | portfolio                  | https\://github.com/afnan-nex/portfolio                    |
-| 3  | tools-installer            | https\://github.com/afnan-nex/tools-installer              |
+| 3  | tooler            | https\://github.com/afnan-nex/tooler              |
 | 4  | git-batch-cloner           | https\://github.com/afnan-nex/git-batch-cloner             |
 | 5  | my-fav-scripts             | https\://github.com/afnan-nex/my-fav-scripts               |
 | 6  | YTDLP-Frontend             | https\://github.com/afnan-nex/YTDLP-Frontend               |
