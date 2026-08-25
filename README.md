@@ -344,103 +344,45 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 ```mermaid
 graph TD
     %% Root Node
-    Root(Software Architect) --> Found[Foundations]
-    Root --> Design[Design & Patterns]
-    Root --> Tech[Technical & Data]
-    Root --> Ops[Security & Operations]
-    Root --> Mgmt[Management & Enterprise]
+    Root(Software Architect) --> Found[Foundations & Responsibilities]
+    Root --> Arch[Design & Architecture Patterns]
+    Root --> Tech[Technical & Data Skills]
+    Root --> Ops[Operations & Management]
 
     %% Foundations Sub-nodes
     Found --> F1(Application Architecture)
     Found --> F2(Solution Architecture)
     Found --> F3(Enterprise Architecture)
-    Found --> F4(Technical Decisions)
+    Found --> F4(Tech & Design Decisions)
     Found --> F5(Enforcing Standards)
 
-    %% Design & Patterns Sub-nodes
-    Design --> D1(SOLID Principles)
-    Design --> D2(Domain-Driven Design)
-    Design --> D3(Microservices)
-    Design --> D4(Distributed Systems)
-    Design --> D5(Event-Driven / CQRS)
+    %% Architecture Patterns Sub-nodes
+    Arch --> A1(SOLID & DDD)
+    Arch --> A2(Microservices)
+    Arch --> A3(Distributed Systems)
+    Arch --> A4(Event-Driven / CQRS)
+    Arch --> A5(Serverless)
 
     %% Technical & Data Sub-nodes
     Tech --> T1(Programming Languages)
     Tech --> T2(SQL & NoSQL Databases)
-    Tech --> T3(REST, GraphQL, gRPC)
+    Tech --> T3(REST, GraphQL & gRPC)
     Tech --> T4(Messaging Queues)
-    Tech --> T5(ETL & Data Warehousing)
+    Tech --> T5(Security & OWASP)
 
-    %% Security & Operations Sub-nodes
-    Ops --> O1(OWASP & Auth Strategies)
-    Ops --> O2(Cloud Providers)
-    Ops --> O3(Infrastructure as Code)
-    Ops --> O4(CI / CD Pipelines)
-    Ops --> O5(Containers & Service Mesh)
+    %% Operations & Management Sub-nodes
+    Ops --> O1(Cloud Providers & IaC)
+    Ops --> O2(Containers & CI/CD)
+    Ops --> O3(TOGAF & UML)
+    Ops --> O4(Agile / SaFE / Scrum)
+    Ops --> O5(ITIL & PMI)
 
-    %% Management & Enterprise Sub-nodes
-    Mgmt --> M1(TOGAF & UML)
-    Mgmt --> M2(Agile / Scrum / SaFE)
-    Mgmt --> M3(ITIL & PMI)
-    Mgmt --> M4(Communication Skills)
-    Mgmt --> M5(Technical Coaching)
-
-    %% Styling (GitHub Primer Color Palette)
+    %% Styling (GitHub-friendly colors)
     style Root fill:#24292f,stroke:#57606a,stroke-width:4px,color:#ffffff
-    style Found fill:#0969da,stroke:#0550ae,color:#ffffff
-    style Design fill:#8250df,stroke:#6639ba,color:#ffffff
-    style Tech fill:#1a7f37,stroke:#116329,color:#ffffff
-    style Ops fill:#9a6700,stroke:#7d4e00,color:#ffffff
-    style Mgmt fill:#cf222e,stroke:#a40e26,color:#ffffffgraph TD
-    %% Root Node
-    Root(Software Architect) --> Found[Foundations]
-    Root --> Design[Design & Patterns]
-    Root --> Tech[Technical & Data]
-    Root --> Ops[Security & Operations]
-    Root --> Mgmt[Management & Enterprise]
-
-    %% Foundations Sub-nodes
-    Found --> F1(Application Architecture)
-    Found --> F2(Solution Architecture)
-    Found --> F3(Enterprise Architecture)
-    Found --> F4(Technical Decisions)
-    Found --> F5(Enforcing Standards)
-
-    %% Design & Patterns Sub-nodes
-    Design --> D1(SOLID Principles)
-    Design --> D2(Domain-Driven Design)
-    Design --> D3(Microservices)
-    Design --> D4(Distributed Systems)
-    Design --> D5(Event-Driven / CQRS)
-
-    %% Technical & Data Sub-nodes
-    Tech --> T1(Programming Languages)
-    Tech --> T2(SQL & NoSQL Databases)
-    Tech --> T3(REST, GraphQL, gRPC)
-    Tech --> T4(Messaging Queues)
-    Tech --> T5(ETL & Data Warehousing)
-
-    %% Security & Operations Sub-nodes
-    Ops --> O1(OWASP & Auth Strategies)
-    Ops --> O2(Cloud Providers)
-    Ops --> O3(Infrastructure as Code)
-    Ops --> O4(CI / CD Pipelines)
-    Ops --> O5(Containers & Service Mesh)
-
-    %% Management & Enterprise Sub-nodes
-    Mgmt --> M1(TOGAF & UML)
-    Mgmt --> M2(Agile / Scrum / SaFE)
-    Mgmt --> M3(ITIL & PMI)
-    Mgmt --> M4(Communication Skills)
-    Mgmt --> M5(Technical Coaching)
-
-    %% Styling (GitHub Primer Color Palette)
-    style Root fill:#24292f,stroke:#57606a,stroke-width:4px,color:#ffffff
-    style Found fill:#0969da,stroke:#0550ae,color:#ffffff
-    style Design fill:#8250df,stroke:#6639ba,color:#ffffff
-    style Tech fill:#1a7f37,stroke:#116329,color:#ffffff
-    style Ops fill:#9a6700,stroke:#7d4e00,color:#ffffff
-    style Mgmt fill:#cf222e,stroke:#a40e26,color:#ffffff
+    style Found fill:#0969da,stroke:#24292f,color:#ffffff
+    style Arch fill:#8250df,stroke:#24292f,color:#ffffff
+    style Tech fill:#1a7f37,stroke:#24292f,color:#ffffff
+    style Ops fill:#9a6700,stroke:#24292f,color:#ffffff
 ```
 
 ---
