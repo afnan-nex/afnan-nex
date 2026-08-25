@@ -339,4 +339,108 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnan-nex&custom_title=AFNAN's+Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=400)
 
+
+### Software architech
+```mermaid
+graph TD
+    %% Root Node
+    Root(Software Architect) --> Found[Foundations]
+    Root --> Design[Design & Patterns]
+    Root --> Tech[Technical & Data]
+    Root --> Ops[Security & Operations]
+    Root --> Mgmt[Management & Enterprise]
+
+    %% Foundations Sub-nodes
+    Found --> F1(Application Architecture)
+    Found --> F2(Solution Architecture)
+    Found --> F3(Enterprise Architecture)
+    Found --> F4(Technical Decisions)
+    Found --> F5(Enforcing Standards)
+
+    %% Design & Patterns Sub-nodes
+    Design --> D1(SOLID Principles)
+    Design --> D2(Domain-Driven Design)
+    Design --> D3(Microservices)
+    Design --> D4(Distributed Systems)
+    Design --> D5(Event-Driven / CQRS)
+
+    %% Technical & Data Sub-nodes
+    Tech --> T1(Programming Languages)
+    Tech --> T2(SQL & NoSQL Databases)
+    Tech --> T3(REST, GraphQL, gRPC)
+    Tech --> T4(Messaging Queues)
+    Tech --> T5(ETL & Data Warehousing)
+
+    %% Security & Operations Sub-nodes
+    Ops --> O1(OWASP & Auth Strategies)
+    Ops --> O2(Cloud Providers)
+    Ops --> O3(Infrastructure as Code)
+    Ops --> O4(CI / CD Pipelines)
+    Ops --> O5(Containers & Service Mesh)
+
+    %% Management & Enterprise Sub-nodes
+    Mgmt --> M1(TOGAF & UML)
+    Mgmt --> M2(Agile / Scrum / SaFE)
+    Mgmt --> M3(ITIL & PMI)
+    Mgmt --> M4(Communication Skills)
+    Mgmt --> M5(Technical Coaching)
+
+    %% Styling (GitHub Primer Color Palette)
+    style Root fill:#24292f,stroke:#57606a,stroke-width:4px,color:#ffffff
+    style Found fill:#0969da,stroke:#0550ae,color:#ffffff
+    style Design fill:#8250df,stroke:#6639ba,color:#ffffff
+    style Tech fill:#1a7f37,stroke:#116329,color:#ffffff
+    style Ops fill:#9a6700,stroke:#7d4e00,color:#ffffff
+    style Mgmt fill:#cf222e,stroke:#a40e26,color:#ffffffgraph TD
+    %% Root Node
+    Root(Software Architect) --> Found[Foundations]
+    Root --> Design[Design & Patterns]
+    Root --> Tech[Technical & Data]
+    Root --> Ops[Security & Operations]
+    Root --> Mgmt[Management & Enterprise]
+
+    %% Foundations Sub-nodes
+    Found --> F1(Application Architecture)
+    Found --> F2(Solution Architecture)
+    Found --> F3(Enterprise Architecture)
+    Found --> F4(Technical Decisions)
+    Found --> F5(Enforcing Standards)
+
+    %% Design & Patterns Sub-nodes
+    Design --> D1(SOLID Principles)
+    Design --> D2(Domain-Driven Design)
+    Design --> D3(Microservices)
+    Design --> D4(Distributed Systems)
+    Design --> D5(Event-Driven / CQRS)
+
+    %% Technical & Data Sub-nodes
+    Tech --> T1(Programming Languages)
+    Tech --> T2(SQL & NoSQL Databases)
+    Tech --> T3(REST, GraphQL, gRPC)
+    Tech --> T4(Messaging Queues)
+    Tech --> T5(ETL & Data Warehousing)
+
+    %% Security & Operations Sub-nodes
+    Ops --> O1(OWASP & Auth Strategies)
+    Ops --> O2(Cloud Providers)
+    Ops --> O3(Infrastructure as Code)
+    Ops --> O4(CI / CD Pipelines)
+    Ops --> O5(Containers & Service Mesh)
+
+    %% Management & Enterprise Sub-nodes
+    Mgmt --> M1(TOGAF & UML)
+    Mgmt --> M2(Agile / Scrum / SaFE)
+    Mgmt --> M3(ITIL & PMI)
+    Mgmt --> M4(Communication Skills)
+    Mgmt --> M5(Technical Coaching)
+
+    %% Styling (GitHub Primer Color Palette)
+    style Root fill:#24292f,stroke:#57606a,stroke-width:4px,color:#ffffff
+    style Found fill:#0969da,stroke:#0550ae,color:#ffffff
+    style Design fill:#8250df,stroke:#6639ba,color:#ffffff
+    style Tech fill:#1a7f37,stroke:#116329,color:#ffffff
+    style Ops fill:#9a6700,stroke:#7d4e00,color:#ffffff
+    style Mgmt fill:#cf222e,stroke:#a40e26,color:#ffffff
+```
+
 ---
