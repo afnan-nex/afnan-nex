@@ -56,15 +56,15 @@ th visitor!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/afnan-nex/">
-    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/feed-linkedin.svg" alt="LinkedIn" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/feed-linkedin.svg" alt="LinkedIn" width="33.33%">
   </a>
   &nbsp;
   <a href="mailto:your.email@example.com">
-    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/feed-email.svg" alt="Email" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/feed-email.svg" alt="Email" width="33.33%">
   </a>
   &nbsp;
   <a href="https://discord.com/users/1208370037350600714">
-    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/feed-discord.svg" alt="Discord" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/feed-discord.svg" alt="Discord" width="33.33%">
   </a>
 </div>
 
