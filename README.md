@@ -161,7 +161,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 
 ## Streak & Stats
 
-![](https://github-readme-stats.shion.dev/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=afnan-nex&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
