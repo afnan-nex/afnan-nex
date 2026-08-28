@@ -48,7 +48,7 @@ th visitor!
 </p>
 
 <p align="left">
-  <img src="https://github.com/afnan-nex/afnan-nex/blob/main/icons/montage.svg" alt="montage" width="20%" />
+  <img src="https://github.com/afnan-nex/afnan-nex/blob/main/assets/montage.svg" alt="montage" width="20%" />
 </p>
 
 ## Metrices
@@ -828,8 +828,9 @@ graph TD
 
 <details>
 <summary>Relax Your Mind</summary>
-
-
+<p align="left">
+  <img src="https://github.com/afnan-nex/afnan-nex/blob/main/assets/run.svg" alt="run" width="100%" />
+</p>
 </details>
 
 ---
