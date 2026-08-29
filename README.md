@@ -155,14 +155,15 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 36 | Links-vault                | https\://github.com/afnan-nex/Links-vault                  |
 | 37 | web-showcase               | https\://github.com/afnan-nex/web-showcase                 |
 | 38 | app-showcase               | https\://github.com/afnan-nex/app-showcase                 |
+| 39 | Open-Juggler               | https\://github.com/afnan-nex/Open-Juggler                 |
 |    | Under Development          |                                                            |
-| 39 | redis-java-clone           | https\://github.com/afnan-nex/redis-java-clone             |
-| 40 | custom-db-engine           | https\://github.com/afnan-nex/custom-db-engine             |
-| 41 | self-learning-ai-agent     | https\://github.com/afnan-nex/self-learning-ai-agent       |
-| 42 | private-search-engine      | https\://github.com/afnan-nex/private-search-engine        |
-| 43 | c-compiler-from-scratch    | https\://github.com/afnan-nex/c-compiler-from-scratch      |
-| 44 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
-| 45 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
+| 40 | redis-java-clone           | https\://github.com/afnan-nex/redis-java-clone             |
+| 41 | custom-db-engine           | https\://github.com/afnan-nex/custom-db-engine             |
+| 42 | self-learning-ai-agent     | https\://github.com/afnan-nex/self-learning-ai-agent       |
+| 43 | private-search-engine      | https\://github.com/afnan-nex/private-search-engine        |
+| 44 | c-compiler-from-scratch    | https\://github.com/afnan-nex/c-compiler-from-scratch      |
+| 45 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
+| 46 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
 
 ## Streak & Stats
 
