@@ -118,7 +118,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | #  | Repository                 | URL                                                        |
 |----|----------------------------|------------------------------------------------------------|
 | 1  | afnan-nex                  | https\://github.com/afnan-nex/afnan-nex                    |
-| 2  | portfolio                  | https\://github.com/afnan-nex/portfolio                    |
+| 2  | afnan-nex.github.io        | https\://github.com/afnan-nex/afnan-nex.github.io          |
 | 3  | tooler                     | https\://github.com/afnan-nex/tooler                       |
 | 4  | git-batch-cloner           | https\://github.com/afnan-nex/git-batch-cloner             |
 | 5  | my-fav-scripts             | https\://github.com/afnan-nex/my-fav-scripts               |
