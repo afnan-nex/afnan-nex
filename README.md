@@ -142,28 +142,31 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 23 | inventory-management       | https\://github.com/afnan-nex/inventory-management         |
 | 24 | StudentManagement-withQT   | https\://github.com/afnan-nex/StudentManagement-withQT     |
 | 25 | StudentManagement-withPY   | https\://github.com/afnan-nex/StudentManagement-withPY     |
-| 26 | ai-soc-tool                | https\://github.com/afnan-nex/ai-soc-tool                  |
-| 27 | Elegant                    | https\://github.com/afnan-nex/Elegant                      |
-| 28 | yt-watchlater-exporter     | https\://github.com/afnan-nex/yt-watchlater-exporter       |
-| 29 | Attendance-manager         | https\://github.com/afnan-nex/Attendance-manager           |
-| 30 | Downly                     | https\://github.com/afnan-nex/Downly                       |
-| 31 | Time-nest                  | https\://github.com/afnan-nex/Time-nest                    |
-| 32 | my-prompts                 | https\://github.com/afnan-nex/my-prompts                   |
-| 33 | Block-me                   | https\://github.com/afnan-nex/Block-me                     |
-| 34 | Stop-me                    | https\://github.com/afnan-nex/Stop-me                      |
-| 35 | calculator-pro             | https\://github.com/afnan-nex/calculator-pro               |
-| 36 | Links-vault                | https\://github.com/afnan-nex/Links-vault                  |
-| 37 | web-showcase               | https\://github.com/afnan-nex/web-showcase                 |
-| 38 | app-showcase               | https\://github.com/afnan-nex/app-showcase                 |
-| 39 | Open-Juggler               | https\://github.com/afnan-nex/Open-Juggler                 |
+| 26 | ai-soc-analyzer            | https\://github.com/afnan-nex/ai-soc-analyzer              |
+| 27 | Net-Guard                  | https\://github.com/afnan-nex/Net-Guard                    |
+| 28 | ai-sales-assistant         | https\://github.com/afnan-nex/ai-sales-assistant           |
+| 29 | Nexus-Forensics            | https\://github.com/afnan-nex/Nexus-Forensics              |
+| 30 | Elegant                    | https\://github.com/afnan-nex/Elegant                      |
+| 31 | yt-watchlater-exporter     | https\://github.com/afnan-nex/yt-watchlater-exporter       |
+| 32 | Attendance-manager         | https\://github.com/afnan-nex/Attendance-manager           |
+| 33 | Downly                     | https\://github.com/afnan-nex/Downly                       |
+| 34 | Time-nest                  | https\://github.com/afnan-nex/Time-nest                    |
+| 35 | my-prompts                 | https\://github.com/afnan-nex/my-prompts                   |
+| 36 | Block-me                   | https\://github.com/afnan-nex/Block-me                     |
+| 37 | Stop-me                    | https\://github.com/afnan-nex/Stop-me                      |
+| 38 | calculator-pro             | https\://github.com/afnan-nex/calculator-pro               |
+| 39 | Links-vault                | https\://github.com/afnan-nex/Links-vault                  |
+| 40 | web-showcase               | https\://github.com/afnan-nex/web-showcase                 |
+| 41 | app-showcase               | https\://github.com/afnan-nex/app-showcase                 |
+| 42 | Open-Juggler               | https\://github.com/afnan-nex/Open-Juggler                 |
 |    | Under Development          |                                                            |
-| 40 | redis-java-clone           | https\://github.com/afnan-nex/redis-java-clone             |
-| 41 | custom-db-engine           | https\://github.com/afnan-nex/custom-db-engine             |
-| 42 | self-learning-ai-agent     | https\://github.com/afnan-nex/self-learning-ai-agent       |
-| 43 | private-search-engine      | https\://github.com/afnan-nex/private-search-engine        |
-| 44 | c-compiler-from-scratch    | https\://github.com/afnan-nex/c-compiler-from-scratch      |
-| 45 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
-| 46 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
+| 43 | redis-java-clone           | https\://github.com/afnan-nex/redis-java-clone             |
+| 44 | custom-db-engine           | https\://github.com/afnan-nex/custom-db-engine             |
+| 45 | self-learning-ai-agent     | https\://github.com/afnan-nex/self-learning-ai-agent       |
+| 46 | private-search-engine      | https\://github.com/afnan-nex/private-search-engine        |
+| 47 | c-compiler-from-scratch    | https\://github.com/afnan-nex/c-compiler-from-scratch      |
+| 48 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
+| 49 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
 
 ## Streak & Stats
 
