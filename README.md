@@ -51,7 +51,7 @@ th visitor!
   <img src="https://github.com/afnan-nex/afnan-nex/blob/main/assets/montage.svg" alt="montage" width="20%" />
 </p>
 
-THE RETARD WHO DOES ALWAYS BEATS THE GENIUS WHO THINKS
+THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
 
 ## Metrices
 ![My GitHub Metrics](github-metrics.svg)
