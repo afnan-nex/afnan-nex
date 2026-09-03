@@ -5,6 +5,8 @@ Welcome, the
 th visitor!
 </p>
 
+<img src="https://count.getloli.com/@afnan-nex?name=afnan-nex&theme=booru-lewd&padding=7&offset=0&align=bottom&scale=2&pixelated=1&darkmode=0">
+
 [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/portfolio.svg">](https://afnan-nex.github.io) [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/cv-button.svg">](https://github.com/afnan-nex/portfolio/raw/main/assets/pdfs/afnan_cv.pdf)<br>
 [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord-community.svg">](https://discord.gg/FD3HnPqkA7)
 ## Socials
