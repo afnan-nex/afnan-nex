@@ -4,6 +4,11 @@ Welcome, the
 <a href="https://github.com/afnan-nex" target="_blank"><img src="https://count.getloli.com/get/@afnan-nex?theme=rule34" alt="Visitor Counter"></a>
 th visitor!
 </p>
+<p align="left">
+Welcome, the
+<a href="https://github.com/afnan-nex" target="_blank"><img src="[https://count.getloli.com/get/@afnan-nex?theme=rule34](https://count.getloli.com/@afnan-nex?name=afnan-nex&theme=booru-lewd&padding=7&offset=0&align=bottom&scale=2&pixelated=1&darkmode=0)" alt="Visitor Counter"></a>
+th visitor!
+</p>
 
 [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/portfolio.svg">](https://afnan-nex.github.io) [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/cv-button.svg">](https://github.com/afnan-nex/portfolio/raw/main/assets/pdfs/afnan_cv.pdf)<br>
 [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord-community.svg">](https://discord.gg/FD3HnPqkA7)
