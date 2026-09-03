@@ -6,7 +6,7 @@ th visitor!
 </p>
 <p align="left">
 Welcome, the
-<a href="https://github.com/afnan-nex" target="_blank"><img src="[https://count.getloli.com/get/@afnan-nex?theme=rule34](https://count.getloli.com/@afnan-nex?name=afnan-nex&theme=booru-lewd&padding=7&offset=0&align=bottom&scale=2&pixelated=1&darkmode=0)" alt="Visitor Counter"></a>
+<a href="https://github.com/afnan-nex" target="_blank"><img src="[https://count.getloli.com/get/@afnan-nex?theme=rule34](https://count.getloli.com/@afnan-nex?name=afnan-nex&theme=booru-lewd&padding=7&offset=0&align=bottom&scale=1&pixelated=1&darkmode=0)" alt="Visitor Counter"></a>
 th visitor!
 </p>
 
