@@ -162,14 +162,17 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 41 | app-showcase               | https\://github.com/afnan-nex/app-showcase                 |
 | 42 | Open-Juggler               | https\://github.com/afnan-nex/Open-Juggler                 |
 | 43 | redis-java-clone           | https\://github.com/afnan-nex/redis-java-clone             |
-| 44 | Run-Nest                   | https\://github.com/afnan-nex/Run-Nest                     |
+| 44 | Lectura                    | https\://github.com/afnan-nex/Lectura                      |
+| 45 | monkey-scripts             | https\://github.com/afnan-nex/monkey-scripts               |
+| 46 | Post-maker                 | https\://github.com/afnan-nex/Post-maker                   |
+| 47 | Run-Nest                   | https\://github.com/afnan-nex/Run-Nest                     |
 |    | Under Development          |                                                            |
-| 45 | custom-db-engine           | https\://github.com/afnan-nex/custom-db-engine             |
-| 46 | self-learning-ai-agent     | https\://github.com/afnan-nex/self-learning-ai-agent       |
-| 47 | private-search-engine      | https\://github.com/afnan-nex/private-search-engine        |
-| 48 | c-compiler-from-scratch    | https\://github.com/afnan-nex/c-compiler-from-scratch      |
-| 49 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
-| 50 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
+| 48 | custom-db-engine           | https\://github.com/afnan-nex/custom-db-engine             |
+| 49 | self-learning-ai-agent     | https\://github.com/afnan-nex/self-learning-ai-agent       |
+| 50 | private-search-engine      | https\://github.com/afnan-nex/private-search-engine        |
+| 51 | c-compiler-from-scratch    | https\://github.com/afnan-nex/c-compiler-from-scratch      |
+| 52 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
+| 53 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
 
 ## Streak & Stats
 
