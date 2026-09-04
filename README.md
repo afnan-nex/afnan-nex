@@ -195,7 +195,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 </details>
 
 <details>
-<summary>Streak & Stats<summary>
+<summary>Streak & Stats</summary>
 
 ![](https://github-readme-stats.shion.dev/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=afnan-nex&theme=dark&hide_border=false)<br/>
@@ -206,7 +206,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 </details>
 
 <details>
-<summary>Tech Stack<summary>
+<summary>Tech Stack</summary>
 
 ### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
