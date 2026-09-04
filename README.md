@@ -7,7 +7,9 @@ th visitor!
 
 [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/portfolio.svg">](https://afnan-nex.github.io) [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/cv-button.svg">](https://github.com/afnan-nex/portfolio/raw/main/assets/pdfs/afnan_cv.pdf)<br>
 [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord-community.svg">](https://discord.gg/FD3HnPqkA7)
-## Socials
+
+<details>
+<summary>Socials</summary>
 <p align="left">
   <a href="https://www.instagram.com/afnan_nex" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/instagram.svg" width="32" height="32" alt="Instagram" />
@@ -52,8 +54,10 @@ th visitor!
 </p>
 
 THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
+</details>
 
-## Metrices
+<details>
+<summary>Metrices</summary>
 ![My GitHub Metrics](github-metrics.svg)
 
 <div align="left">
@@ -69,8 +73,10 @@ THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/feed-discord.svg" alt="Discord" width="30.00%">
   </a>
 </div>
+</details>
 
-## My web Apps
+<details>
+<summary>My web Apps</summary>
 | QR Code Detector | Missile Mayhem | Github Link Converter | Folio Invoice Maker|
 |------------------|----------------|-----------------------|--------------------|
 | [Open ↗️](https://afnan-nex.github.io/qr-code-detector/qr.html) | [Open ↗️](https://afnan-nex.github.io/Missile-Mayhem/game.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/Github%20link%20converter.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/folio-invoice-maker.html) |
@@ -78,8 +84,10 @@ THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
 | Cat's Cradle | Personal Emergency Vault | Cache File Downloader | Big Text|
 |--------------|--------------------------|-----------------------|---------|
 | [Open ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/cache-file-downloader.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/bigtext.html) |
+</details>
 
-## On the go Scripts
+<details>
+<summary>On the go Scripts</summary>
 ### Tooler
 ```cmd
 curl -L -o "%TEMP%\tooler.ps1" https://raw.githubusercontent.com/afnan-nex/tooler/main/tooler.ps1 && powershell -NoProfile -ExecutionPolicy Bypass -File "%TEMP%\tooler.ps1"
@@ -114,8 +122,10 @@ curl -L -o monkeytype_tui.py https://raw.githubusercontent.com/afnan-nex/monkeyt
 aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L -o Downly.py https://raw.githubusercontent.com/afnan-nex/Downly/main/Downly.py && python -m pip install customtkinter aria2p pillow && python Downly.py
 
 ```
+</details>
 
-## My Repositories
+<details>
+<summary>My Repositories</summary>
 
 | #  | Repository                 | URL                                                        |
 |----|----------------------------|------------------------------------------------------------|
@@ -173,18 +183,20 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 51 | c-compiler-from-scratch    | https\://github.com/afnan-nex/c-compiler-from-scratch      |
 | 52 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
 | 53 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
+</details>
 
-## Streak & Stats
+<details>
+<summary>Streak & Stats<summary>
 
 ![](https://github-readme-stats.shion.dev/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=afnan-nex&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=afnan-nex&color=007ec6&style=round-square)
+</details>
 
----
-
-## Tech Stack
+<details>
+<summary>Tech Stack<summary>
 
 ### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -337,8 +349,8 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
 ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+</details>
 
----
 ### GitHub Stats & Language:
 <img src="https://github.com/abhixdd/abhixdd/blob/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 
