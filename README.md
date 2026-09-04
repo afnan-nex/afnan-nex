@@ -363,7 +363,8 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 </details>
 
 <details>
-<summary>GitHub Trophies<summary>
+<summary>GitHub Trophies</summary>
+
 <picture>
 <img src="https://nirzak-trophies.vercel.app/?username=afnan-nex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </picture>
