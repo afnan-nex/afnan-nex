@@ -195,7 +195,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 </details>
 
 <details>
-<summary>Streak & Stats</summary>
+<summary>Stats, Streaks & Stats</summary>
 
 ![](https://github-readme-stats.shion.dev/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=afnan-nex&theme=dark&hide_border=false)<br/>
@@ -362,13 +362,13 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 
 </details>
 
-### GitHub Stats & Language:
-<img src="https://github.com/abhixdd/abhixdd/blob/output/github-snake-dark.svg" alt="snake animation" width="100%" />
-
-## GitHub Trophies
+<details>
+<summary>GitHub Trophies<summary>
 <picture>
 <img src="https://nirzak-trophies.vercel.app/?username=afnan-nex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </picture>
+
+<img src="https://github.com/abhixdd/abhixdd/blob/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -377,6 +377,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnan-nex&custom_title=AFNAN's+Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=400)
 
+</details>
 
 ### Roadmaps
 
