@@ -10,6 +10,7 @@ th visitor!
 
 <details>
 <summary>Socials</summary>
+
 <p align="left">
   <a href="https://www.instagram.com/afnan_nex" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/instagram.svg" width="32" height="32" alt="Instagram" />
@@ -54,10 +55,12 @@ th visitor!
 </p>
 
 THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
+
 </details>
 
 <details>
 <summary>Metrices</summary>
+
 ![My GitHub Metrics](github-metrics.svg)
 
 <div align="left">
@@ -73,10 +76,12 @@ THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
     <img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/feed-discord.svg" alt="Discord" width="30.00%">
   </a>
 </div>
+
 </details>
 
 <details>
 <summary>My web Apps</summary>
+
 | QR Code Detector | Missile Mayhem | Github Link Converter | Folio Invoice Maker|
 |------------------|----------------|-----------------------|--------------------|
 | [Open ↗️](https://afnan-nex.github.io/qr-code-detector/qr.html) | [Open ↗️](https://afnan-nex.github.io/Missile-Mayhem/game.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/Github%20link%20converter.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/folio-invoice-maker.html) |
@@ -84,10 +89,12 @@ THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
 | Cat's Cradle | Personal Emergency Vault | Cache File Downloader | Big Text|
 |--------------|--------------------------|-----------------------|---------|
 | [Open ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/cache-file-downloader.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/bigtext.html) |
+
 </details>
 
 <details>
 <summary>On the go Scripts</summary>
+
 ### Tooler
 ```cmd
 curl -L -o "%TEMP%\tooler.ps1" https://raw.githubusercontent.com/afnan-nex/tooler/main/tooler.ps1 && powershell -NoProfile -ExecutionPolicy Bypass -File "%TEMP%\tooler.ps1"
@@ -122,6 +129,7 @@ curl -L -o monkeytype_tui.py https://raw.githubusercontent.com/afnan-nex/monkeyt
 aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L -o Downly.py https://raw.githubusercontent.com/afnan-nex/Downly/main/Downly.py && python -m pip install customtkinter aria2p pillow && python Downly.py
 
 ```
+
 </details>
 
 <details>
@@ -183,6 +191,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 51 | c-compiler-from-scratch    | https\://github.com/afnan-nex/c-compiler-from-scratch      |
 | 52 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
 | 53 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
+
 </details>
 
 <details>
@@ -193,6 +202,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=afnan-nex&color=007ec6&style=round-square)
+
 </details>
 
 <details>
@@ -349,6 +359,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
 ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
 </details>
 
 ### GitHub Stats & Language:
