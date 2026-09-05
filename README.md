@@ -8,8 +8,6 @@ th visitor!
 [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/portfolio.svg">](https://afnan-nex.github.io) [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/cv-button.svg">](https://github.com/afnan-nex/portfolio/raw/main/assets/pdfs/afnan_cv.pdf)<br>
 [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord-community.svg">](https://discord.gg/FD3HnPqkA7)
 
-<details>
-<summary>More</summary>
 
 ## Socials
 
@@ -57,6 +55,9 @@ th visitor!
 </p>
 
 THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
+
+<details>
+<summary>More</summary>
 
 ## Metrices
 
