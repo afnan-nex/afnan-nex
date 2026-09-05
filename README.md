@@ -9,7 +9,9 @@ th visitor!
 [<img src="https://raw.githubusercontent.com/afnan-nex/afnan-nex/main/icons/discord-community.svg">](https://discord.gg/FD3HnPqkA7)
 
 <details>
-<summary>Socials</summary>
+<summary>More</summary>
+
+## Socials
 
 <p align="left">
   <a href="https://www.instagram.com/afnan_nex" target="_blank" rel="noreferrer">
@@ -56,10 +58,7 @@ th visitor!
 
 THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
 
-</details>
-
-<details>
-<summary>Metrices</summary>
+## Metrices
 
 ![My GitHub Metrics](github-metrics.svg)
 
@@ -77,10 +76,7 @@ THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
   </a>
 </div>
 
-</details>
-
-<details>
-<summary>My web Apps</summary>
+## My web Apps
 
 | QR Code Detector | Missile Mayhem | Github Link Converter | Folio Invoice Maker|
 |------------------|----------------|-----------------------|--------------------|
@@ -90,10 +86,7 @@ THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
 |--------------|--------------------------|-----------------------|---------|
 | [Open ↗️](https://afnan-nex.github.io/cats-cradle/index.html) | [Open ↗️](https://afnan-nex.github.io/personal-emergency-vault/index.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/cache-file-downloader.html) | [Open ↗️](https://afnan-nex.github.io/my-fav-scripts/bigtext.html) |
 
-</details>
-
-<details>
-<summary>On the go Scripts</summary>
+## On the go Scripts
 
 ### Tooler
 ```cmd
@@ -130,10 +123,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 
 ```
 
-</details>
-
-<details>
-<summary>My Repositories</summary>
+## My Repositories
 
 | #  | Repository                 | URL                                                        |
 |----|----------------------------|------------------------------------------------------------|
@@ -192,18 +182,13 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 | 52 | vpn-android-flutter        | https\://github.com/afnan-nex/vpn-android-flutter          |
 | 53 | vpn-android-kotlin         | https\://github.com/afnan-nex/vpn-android-kotlin           |
 
-</details>
-
-<details>
-<summary>Stats, Streaks & Stats</summary>
+## Stats, Streaks & Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=afnan-nex&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=afnan-nex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=afnan-nex&color=007ec6&style=round-square)
-
-</details>
 
 <details>
 <summary>Tech Stack</summary>
@@ -362,8 +347,7 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 
 </details>
 
-<details>
-<summary>GitHub Trophies</summary>
+## GitHub Trophies
 
 <picture>
 <img src="https://nirzak-trophies.vercel.app/?username=afnan-nex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
@@ -377,8 +361,6 @@ aria2c >nul 2>&1 || choco upgrade aria2 -y --install-if-not-installed && curl -L
 [![](https://visitcount.itsvg.in/api?id=afnan-nex&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afnan-nex&custom_title=AFNAN's+Contribution+Graph&area=true&theme=react-dark&hide_border=true&radius=16&height=400)
-
-</details>
 
 ### Roadmaps
 
@@ -868,4 +850,4 @@ graph TD
 </p>
 </details>
 
----
+</details>
