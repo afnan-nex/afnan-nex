@@ -91,7 +91,7 @@ THE RETARD WHO DOES, ALWAYS BEATS THE GENIUS WHO THINKS
 
 ### Tooler
 ```cmd
-curl -L -o "%TEMP%\tooler.ps1" https://raw.githubusercontent.com/afnan-nex/tooler/main/tooler.ps1 && powershell -NoProfile -ExecutionPolicy Bypass -File "%TEMP%\tooler.ps1"
+irm https://raw.githubusercontent.com/afnan-nex/tooler/main/run.ps1 | iex
 
 ```
 
